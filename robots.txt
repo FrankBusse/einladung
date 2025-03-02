@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+
+Sitemap: https://frankbusse.github.io/sitemap-index.xml
